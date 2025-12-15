@@ -6,6 +6,27 @@ permalink: /en/news/
 order: 1
 ---
 
+<h3>December 2025</h3>
+<a href="../../news/student recital 2025 poster.pdf">
+<img class="float-left" src="../../news/student recital 2025 poster.pdf" alt="" width="320px" style="float:left;">
+</a>
+
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+
+<a href="../../news/chamber final concert 2026 poster.pdf">
+<img class="float-left" src="../../news/chamber final concert 2026 poster.pdf" alt="" width="320px" style="float:left;">
+</a>
+
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br>
+
 <h3>January 2024</h3>
 <a href="../../news/student recital 2024 poster.pdf">
 <img class="float-left" src="../../news/student recital 2024 poster.pdf" alt="" width="300px" style="float:left;">
