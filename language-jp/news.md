@@ -6,6 +6,17 @@ permalink: /jp/news/
 order: 1
 ---
 
+<h3>2026年6月</h3>
+<a href="../../news/BaySpo_Elena_J.pdf">
+<img class="float-left" src="../../news/BaySpo_Elena_J.pdf" alt="" width="320px" style="float:left;">
+</a>
+
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+
 <h3>2025年12月</h3>
 <a href="../../news/student recital 2025 poster.pdf">
 <img class="float-left" src="../../news/student recital 2025 poster.pdf" alt="" width="320px" style="float:left;">

@@ -6,6 +6,17 @@ permalink: /en/news/
 order: 1
 ---
 
+<h3>June 2026</h3>
+<a href="../../news/BaySpo_Elena_E.pdf">
+<img class="float-left" src="../../news/BaySpo_Elena_E.pdf" alt="" width="320px" style="float:left;">
+</a>
+
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>
+
 <h3>December 2025</h3>
 <a href="../../news/student recital 2025 poster.pdf">
 <img class="float-left" src="../../news/student recital 2025 poster.pdf" alt="" width="320px" style="float:left;">
